@@ -1,0 +1,66 @@
+[
+{
+"id": 3,
+"numHabitacion": 17,
+"activo": true,
+"tipoHabitacionId": 4,
+"tipoHabitacion": null,
+"reservaciones": []
+},
+{
+"id": 4,
+"numHabitacion": 16,
+"activo": true,
+"tipoHabitacionId": 4,
+"tipoHabitacion": null,
+"reservaciones": []
+},
+{
+"id": 5,
+"numHabitacion": 15,
+"activo": true,
+"tipoHabitacionId": 4,
+"tipoHabitacion": null,
+"reservaciones": []
+},
+{
+"id": 6,
+"numHabitacion": 14,
+"activo": true,
+"tipoHabitacionId": 3,
+"tipoHabitacion": null,
+"reservaciones": []
+},
+{
+"id": 7,
+"numHabitacion": 13,
+"activo": true,
+"tipoHabitacionId": 3,
+"tipoHabitacion": null,
+"reservaciones": []
+},
+{
+"id": 8,
+"numHabitacion": 12,
+"activo": true,
+"tipoHabitacionId": 3,
+"tipoHabitacion": null,
+"reservaciones": []
+},
+{
+"id": 9,
+"numHabitacion": 11,
+"activo": true,
+"tipoHabitacionId": 3,
+"tipoHabitacion": null,
+"reservaciones": []
+},
+{
+"id": 20,
+"numHabitacion": 20,
+"activo": true,
+"tipoHabitacionId": 3,
+"tipoHabitacion": null,
+"reservaciones": []
+}
+]
